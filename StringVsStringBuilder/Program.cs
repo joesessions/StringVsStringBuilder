@@ -18,7 +18,7 @@ namespace StringVsStringBuilder
             Console.WriteLine();
             Console.WriteLine("Ready? Press enter."); Console.ReadLine();
 
-            Console.WriteLine("Please wait (about 10 seconds)");
+            Console.WriteLine("Please wait (about 7 seconds)");
 
             DateTime start = DateTime.Now;
             LetterGenerator();
